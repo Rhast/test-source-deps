@@ -3,8 +3,8 @@ plugins {
 }
 
 allprojects {
-    group = "org.example"
-    version = "1.0-SNAPSHOT"
+    group = "com.lerw"
+    version = "1.0"
 
     repositories {
         mavenCentral()
